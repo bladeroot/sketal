@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import datetime
 
 from handler.base_plugin_command import CommandPlugin

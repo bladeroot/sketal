@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 def pr_iterator(iter):
     pr = None
 

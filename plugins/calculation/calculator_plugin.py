@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from handler.base_plugin_command import CommandPlugin
 from plugins.calculation.calculator import Calculator
 

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import time
 
 from handler.base_plugin import BasePlugin
