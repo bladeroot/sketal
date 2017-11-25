@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from handler.base_plugin import BasePlugin
 
 
