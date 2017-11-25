@@ -9,3 +9,5 @@ tinydb
 
 gTTS
 langdetect
+peewee
+peewee_async
