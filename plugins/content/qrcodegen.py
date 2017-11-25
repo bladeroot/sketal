@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from handler.base_plugin_command import CommandPlugin
 from vk_special_methods import upload_photo
 

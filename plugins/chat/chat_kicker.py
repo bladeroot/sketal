@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from handler.base_plugin_command import CommandPlugin
 from vk_plus_utils import EventType
 from utils import traverse
